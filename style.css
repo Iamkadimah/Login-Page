@@ -35,14 +35,14 @@ body{
     top: 235px;
 }
 input[type=email]{
-    width:90%;
+    width:75%;
     padding:10px;
     border:2px solid #4C0552;
     border-radius:10px ;
     
 }
 input[type=password]{
-    width:90%;
+    width:75%;
     padding:10px;
     border:2px solid #4C0552;
     border-radius:10px;
@@ -50,7 +50,7 @@ input[type=password]{
 }
 input[type=button]{
     border:2px solid #4C0552;
-    border-radius:10px;
+    border-radius:15px;
     padding:10px;
     text-transform: uppercase;
     background-color: #4C0552;
@@ -175,3 +175,5 @@ input[type=button]{
     opacity: 0.5;
     
   }
+  .wrapper a{
+    color:#4C0552;}
